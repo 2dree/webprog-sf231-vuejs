@@ -1,4 +1,4 @@
-<script></script>
+
  
 <template>
     <h1>Food</h1><br>
