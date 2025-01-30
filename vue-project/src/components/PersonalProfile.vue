@@ -1,6 +1,4 @@
-
 <template>
-
     <div class="container">
         <header>
           <h1>Personal Profile Web Page</h1>
@@ -119,14 +117,4 @@
   </ul>
   </div>
   </div>
-
-  </template>
-
-
-<script></script>
-
-
-
-
-
-
+</template>
