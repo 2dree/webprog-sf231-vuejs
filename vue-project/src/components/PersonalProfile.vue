@@ -1,52 +1,23 @@
+
 <template>
     <div class="container">
-      <header>
-        <h1>Personal Profile Web Page</h1>
-      </header>
-  
-      <main class="grid-layout">
-        <section class="card about-me">
-          <h3>About Me</h3>
-          <p>Hi! I'm Paolo Andre J Co</p>
-        </section>
-  
-        <section class="card education">
-          <h3>Education / Achievements</h3>
-          <p>I've graduated from senior high school at Asia Pacific College. I received honors at Asia Pacific College during my first year in college.</p>
-        </section>
-  
-        <section class="card experience">
-          <h3>IT Experience</h3>
-          <p>Bootcamp in Senior High - My group made a mini question game, coded using Python, HTML, CSS, and MySQL.</p>
-        </section>
-  
-        <section class="card hobbies">
-          <h3>Hobbies & Interests</h3>
-          <ul>
-            <li>Soccer/Football</li>
-            <li>Guitar</li>
-            <li>Video Games</li>
-            <li>Driving</li>
-          </ul>
-        </section>
-  
-        <section class="card goals">
-          <h3>Goals In Life / Dream</h3>
-          <p>My dream is to get a degree in Computer Science then take a flight school course and become a pilot.</p>
-        </section>
-  
-        <section class="card gallery">
-          <h3>Picture Gallery</h3>
-          <div class="gallery-grid">
-            <img src="https://github.com/2dree/WEBPROG-PERSONAL-WEBSITE/blob/main/images/462561502_3858694047720615_3179409020211366606_n.jpg?raw=true" alt="Photo 1">
-            <img src="https://github.com/2dree/WEBPROG-PERSONAL-WEBSITE/blob/main/images/462551195_1489337938375047_1571923312425414344_n.jpg?raw=true" alt="Photo 2">
-            <img src="https://github.com/2dree/WEBPROG-PERSONAL-WEBSITE/blob/main/images/462561502_1111964123928277_5852840318918421857_n.jpg?raw=true" alt="Photo 3">
-            <img src="https://github.com/2dree/WEBPROG-PERSONAL-WEBSITE/blob/main/images/462567618_1227724858308466_1683498210268344549_n.jpg?raw=true" alt="Photo 4">
-            <img src="https://github.com/2dree/WEBPROG-PERSONAL-WEBSITE/blob/main/images/462570064_1679011853048132_4176876908496173845_n%20(1).jpg?raw=true" alt="Photo 5">
-            <img src="https://github.com/2dree/WEBPROG-PERSONAL-WEBSITE/blob/main/images/465441290_925133872464943_5688288471743655738_n.jpg?raw=true" alt="Photo 6">
-          </div>
-        </section>
-      </main>
-    </div>
-  </template>
-  
+        <header> <h1>Personal Profile Web page </h1>  </header>
+        <main>
+          <section class="main-content">
+            <div>1 About Me</div>
+            <div>2 Education / Achievements</div>
+            <div>3 Course </div>  
+            <div>4 IT Experience</div>
+            <div>5 Hobbies & Interests</div>
+            <div>6 Goals In Life / Dream</div>  
+            <div>7 Picture Gallery</div>
+          </section>
+          <aside class="sidebar">
+            </aside>
+        </main>
+        <footer> Asia Pacific College   </footer>
+      </div>
+    </template>
+    
+    <script></script>
+    <style></style>
